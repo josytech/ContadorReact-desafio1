@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+ 
+  justify-content: space-around;
+  align-items: center;
+  background-color: pink;
+}
+
+
+.contador{
+  height: 10vh;
+  display: flex;
+ 
+  justify-content: center
+  align-items: center;
+  background-color:white;
+}
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: red;
+  font-size: 20vh;
+  
+}
+
+
+
